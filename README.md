@@ -36,7 +36,7 @@ Graduated as a Computer Programming Technician from the National University of Q
 
 <h4> ORM/ODM </h4>
 <span>
-Mongoose
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </span>
