@@ -1,18 +1,15 @@
 <h1 align="center">Hi , I'm Facundo Sardi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVqYjJvazU3ZGVyM2M0MTZsdHBoam5sZHpyMjVvaXJvNmFjdXMxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.webp" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
+Graduated as a Computer Programming Technician from the National University of Quilmes, I am an enthusiastic and committed professional with a genuine passion for sports and software development. My strong background in programming has focused on backend development, supported by my experience in web application development. Eager to apply my skills and contribute to the success of challenging projects.
+
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech, 📖 I love playing games, 🏂 do snowboarding, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="facusardi96@gmail.com">facusardi96@gmail.com</a>
 
 ## My Skills Include
 
